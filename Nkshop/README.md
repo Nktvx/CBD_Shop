@@ -29,3 +29,6 @@ ENGLISH -EN-
 Go to server.cfg or resources.cfg and copy paste: ensure Nkshop
 
 If you need help Dm's me on discord  :LANEXA_Nk#0078
+
+If you need help to translate  : ^
+                                 |
